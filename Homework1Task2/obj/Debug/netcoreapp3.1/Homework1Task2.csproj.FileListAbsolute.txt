@@ -1,0 +1,13 @@
+C:\Users\pavel\source\repos\Pragmatic.Homework.In.CSharp\Homework1Task2\bin\Debug\netcoreapp3.1\Homework1Task2.exe
+C:\Users\pavel\source\repos\Pragmatic.Homework.In.CSharp\Homework1Task2\bin\Debug\netcoreapp3.1\Homework1Task2.deps.json
+C:\Users\pavel\source\repos\Pragmatic.Homework.In.CSharp\Homework1Task2\bin\Debug\netcoreapp3.1\Homework1Task2.runtimeconfig.json
+C:\Users\pavel\source\repos\Pragmatic.Homework.In.CSharp\Homework1Task2\bin\Debug\netcoreapp3.1\Homework1Task2.runtimeconfig.dev.json
+C:\Users\pavel\source\repos\Pragmatic.Homework.In.CSharp\Homework1Task2\bin\Debug\netcoreapp3.1\Homework1Task2.dll
+C:\Users\pavel\source\repos\Pragmatic.Homework.In.CSharp\Homework1Task2\bin\Debug\netcoreapp3.1\Homework1Task2.pdb
+C:\Users\pavel\source\repos\Pragmatic.Homework.In.CSharp\Homework1Task2\obj\Debug\netcoreapp3.1\Homework1Task2.csprojAssemblyReference.cache
+C:\Users\pavel\source\repos\Pragmatic.Homework.In.CSharp\Homework1Task2\obj\Debug\netcoreapp3.1\Homework1Task2.AssemblyInfoInputs.cache
+C:\Users\pavel\source\repos\Pragmatic.Homework.In.CSharp\Homework1Task2\obj\Debug\netcoreapp3.1\Homework1Task2.AssemblyInfo.cs
+C:\Users\pavel\source\repos\Pragmatic.Homework.In.CSharp\Homework1Task2\obj\Debug\netcoreapp3.1\Homework1Task2.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\Pragmatic.Homework.In.CSharp\Homework1Task2\obj\Debug\netcoreapp3.1\Homework1Task2.dll
+C:\Users\pavel\source\repos\Pragmatic.Homework.In.CSharp\Homework1Task2\obj\Debug\netcoreapp3.1\Homework1Task2.pdb
+C:\Users\pavel\source\repos\Pragmatic.Homework.In.CSharp\Homework1Task2\obj\Debug\netcoreapp3.1\Homework1Task2.genruntimeconfig.cache
